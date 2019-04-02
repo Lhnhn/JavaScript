@@ -32,4 +32,4 @@
 |onunload|用户退出页面。 ( <body> 和 <frameset>)|2|
  
  
-[更多》》](http://www.runoob.com/jsref/dom-obj-event.html);
+[                                                 更多>>](http://www.runoob.com/jsref/dom-obj-event.html)
