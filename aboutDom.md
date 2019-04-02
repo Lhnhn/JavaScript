@@ -30,3 +30,6 @@
 |onresize|窗口或框架被重新调整大小。|2|
 |onscroll|当文档被滚动时发生的事件。|2|
 |onunload|用户退出页面。 ( <body> 和 <frameset>)|2|
+ 
+ 
+[更多》》](http://www.runoob.com/jsref/dom-obj-event.html);
