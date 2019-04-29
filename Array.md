@@ -10,3 +10,5 @@ cars[2]="BMW";
 ```
 或者<br>
 `var cars=["Saab","Volvo","BMW"];`
+
+## 数组常用方法
